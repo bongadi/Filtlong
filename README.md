@@ -59,7 +59,9 @@ By default, when you install Conda, a base environment is created and often acti
     <img width="522" alt="image" src="https://github.com/user-attachments/assets/9223bc4d-fbbd-4105-8c31-e3e8172ecb72">
 
        
-  
+          filtlong --min_length 1000 input.fastq > filtered_output.fastq
+  	
+
 8.	Install the **filtlong package** from the bioconda channel using Conda
 
          conda install –c bioconda filtlong

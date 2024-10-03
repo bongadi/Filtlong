@@ -5,7 +5,7 @@
 **Filtlong Toolkit**
  
 Filtlong is a tool used to filter long-read sequencing data based on quality scores, read length, and other user-defined parameters. It's particularly useful for long-read
-sequencing technologies like PacBio and Oxford Nanopore, but it can also be applied to short-read data.
+sequencing technologies like **PacBio and Oxford Nanopore**, but it can also be applied to short-read data.
 ______________________________________________________________________________
 
 **Key Features of Filtlong:**
